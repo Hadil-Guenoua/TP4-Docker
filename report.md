@@ -1,5 +1,6 @@
 
----
+
+
 
 ##  **1. انشاء الـ Docker Image**
 
@@ -34,7 +35,7 @@ docker rmi hadilguenoua/tp3-image:latest
 ```
 
 ---
-##  **5. تحميل الصورة من Docker Hub 
+##  **5. تحميل الصورة من Docker Hub** 
 
 ```powershell
 docker pull hadilguenoua/tp3-image:latest
@@ -73,7 +74,7 @@ docker ps
 ```
 
 ---
-##  **ملخص ما تم انجازه :
+##  **ملخص ما تم انجازه :**
 
    انشاء حساب Docker Hub لرفع الـ Image ومشاركتها.
     
@@ -91,4 +92,4 @@ docker ps
     
    التحقق من عمل الحاويات باستخدام `docker ps`.
     
----
+
